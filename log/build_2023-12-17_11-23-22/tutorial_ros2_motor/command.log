@@ -1,0 +1,2 @@
+Invoking command in '/home/ubuntu/robot_ws/src/build/tutorial_ros2_motor': /usr/bin/cmake /home/ubuntu/robot_ws/src/tutorial_ros2_motor -DCMAKE_INSTALL_PREFIX=/home/ubuntu/robot_ws/src/install/tutorial_ros2_motor
+Invoked command in '/home/ubuntu/robot_ws/src/build/tutorial_ros2_motor' returned '1': /usr/bin/cmake /home/ubuntu/robot_ws/src/tutorial_ros2_motor -DCMAKE_INSTALL_PREFIX=/home/ubuntu/robot_ws/src/install/tutorial_ros2_motor
